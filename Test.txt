@@ -1,4 +1,4 @@
 1 - One
-2 - Two
+2 - Dos
 3 - Three
 4 - Four
